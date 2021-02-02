@@ -2,7 +2,7 @@
 
 gdal: version 3.1.3
 
-OS: win 64
+OS: win10  X64
 
 complier: visual studio 2019
 
